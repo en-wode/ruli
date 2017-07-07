@@ -3,3 +3,4 @@
 http://www.iyoule.com/static/authornews/nv.html
 
 scroll的用法 更简单可以用锚点 href="#1" div_ id=1
+注意chrome firefox 支持问题
